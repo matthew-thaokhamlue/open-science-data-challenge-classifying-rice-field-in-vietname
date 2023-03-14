@@ -16,7 +16,10 @@ Therefore, focusing on solutions for rice production, particularly in Vietnam, c
 
 ### **Project Structure**
 
-- **`data/`**: contains the Sentinel-1 radar data used in the project.
+- **`data/`**: contains the training and testing dataset, and Sentinel-1 radar data used in the project.
 - **`notebooks/`**: contains Jupyter notebooks used for data preprocessing, exploratory data analysis, and model training.
-- **`models/`**: contains the trained machine learning model and associated files.
+- **`models/`**: contains the trained machine learning models
 - **`README.md`**: provides an overview of the project.
+
+### **prerequisite**
+- You have an account on <a href="https://planetarycomputer.microsoft.com/">Microsoft Planetary Computer</a>
